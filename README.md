@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the UI of Instagram Threads created using Flutter.
+
+Here are the screenshots of the UI on the application
+
+![Screenshot 1](/assets/insta-threads-page1.png)
+![Screenshot 2](/assets/insta-threads-page2.png)
 
 A few resources to get you started if this is your first Flutter project:
 
